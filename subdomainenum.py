@@ -1,7 +1,7 @@
 import requests 
 import sys 
 
-sub_list = open("subdomains.txt").read() 
+sub_list = open("wordlist/common.txt").read() 
 subdoms = sub_list.splitlines()
 
 for sub in subdoms:
