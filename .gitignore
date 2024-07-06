@@ -1,1 +1,8 @@
+# Secrets
 .targets.txt
+# Virtual Enviroment Directories
+/lib
+/lib64
+/bin
+/include
+/pyvenv.cfg
